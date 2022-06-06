@@ -1,0 +1,19 @@
+{
+  "name": "change-URL-search",
+  "version": "1.0.0",
+  "description": "地址栏不刷新页面替换search",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zhang-YanRong/npm-package.git"
+  }
+}
